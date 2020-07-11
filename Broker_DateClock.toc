@@ -1,0 +1,12 @@
+## Interface: 83000
+## Title: DateClock
+## Notes: Displays Date and Time in a very simple format.
+## Author: Nnoggie
+## Dependencies: 
+## Version: 1.0.0
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+Broker_DateClock.lua
