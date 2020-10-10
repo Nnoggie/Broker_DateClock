@@ -7,7 +7,13 @@ local Broker_DateClock = ldb:NewDataObject("Broker_DateClock", {
 	suffix = "pm",
 	icon = "interface\\icons\\inv_misc_pocketwatch_01",
 	label = "DateClock",
-	OnClick = nil,
+	OnClick = function ()
+		if not InCombatLockdown() then
+			_G.GameTimeFrame:Click()
+		else
+			print("Cannot open Calendar in Combat!")
+		end
+	end,
 	OnTooltipShow = nil,
 })
 
