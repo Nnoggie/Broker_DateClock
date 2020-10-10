@@ -1,2 +1,4 @@
+v1.0.2
+- open calendar on click
 v1.0.1
 - initial version
