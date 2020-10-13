@@ -1,9 +1,8 @@
-## Interface: 80300
-## Title: DateClock
+## Interface: 90001
 ## Notes: Displays Date and Time in a very simple format.
 ## Author: Nnoggie
 ## Dependencies: 
-## Version: 1.0.2
+## Version: 1.0.3
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
