@@ -1,8 +1,8 @@
-## Interface: 90001
+## Interface: 90002
 ## Notes: Displays Date and Time in a very simple format.
 ## Author: Nnoggie
 ## Dependencies: 
-## Version: 1.0.3
+## Version: 1.0.4
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
