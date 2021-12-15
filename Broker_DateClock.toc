@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 90105
 ## Notes: Displays Date and Time in a very simple format.
 ## Author: Nnoggie
 ## Dependencies: 
